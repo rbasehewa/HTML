@@ -1,6 +1,6 @@
 <h1> Things I have learned from HTML</h1>
 
-<h2>Soultions 1 <h2>
+<h2>Solutions 1 <h2>
 
 <ol> 
 <li>lists</li>
@@ -10,7 +10,7 @@
 <li> em</li>
 </ol>
 
-<h2>Soultions 2 <h2>
+<h2>Solutions 2 <h2>
 
 <ul>
 <li> Image Tag </li>
