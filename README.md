@@ -39,7 +39,7 @@
 <h3> Register form with validation</h3>
 
 <ol> 
-<li> Text Input <li>
+<li> Text Input </li>
 <li> Password Input </li>
 <li> Email Input </li>
     <ul>
@@ -55,6 +55,7 @@
 </ol>
 
 <ul>
+<strong>Attributes</strong>
 <li> for </li>
 <li> name  </li> 
 <li> id </li>
