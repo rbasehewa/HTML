@@ -23,9 +23,15 @@
 <ol>
 <li> table </li>
 <li> thead </li>
-<ul> tr tag </ul> <ul> th tag </ul>
+<ul> 
+    <li> tr tag </li> 
+    <li> th tag </li>
+ </ul>
 <li> tbody </li>
-<ul> tr tag </ul> <ul> td tag </ul>
+<ul> 
+    <li> tr tag </li> 
+    <li> td tag </li>
+</ul>
 </ol>
 
 <h2> Solutions 4 </h2>
@@ -33,7 +39,7 @@
 <h3> Register form with validation</h3>
 
 <ol> 
-<li> Text Input</<li>>
+<li> Text Input <li>
 <li> Password Input </li>
 <li> Email Input </li>
     <ul>
