@@ -36,13 +36,12 @@
 <ul> Text Input</ul>
 <ul> Password Input </ul>
 <ul> Email Input </ul>
-<li> label  </li>
-<li> input  </li>
+    <li> label  </li>
+    <li> input  </li>
 <ul> Radio buttons</ul>
-<li> select Tag </li>
-<li> option Tag </li>
+    <li> select Tag </li>
+    <li> option Tag </li>
 <ul> Check box</ul>
-<ul>
 </ol>
 
 <ul>
