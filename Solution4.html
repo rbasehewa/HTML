@@ -1,0 +1,70 @@
+<html>
+    <head>
+<title>Ryan Maddumahewa</title>
+    </head>
+    <body>
+       <h1>Register</h1>
+       <form>
+        <div>
+            <label for="firstname" >First name:</label>
+            <input name="firstname" id="firstname" type="text" placeholder="John" required>
+            
+            <label for="lastname" >Last name:</label>
+            <input name="lastname" id="lastname" type="text" placeholder="Zina" required>
+        </div>
+      
+
+    <div>
+        <label for="male">Male</label>
+        <input name="gender" id="male" type="radio" value="MALE">
+
+        <label for="female">Female</label>
+        <input name="gender" id="female" type="radio" value="FEMALE">
+
+        <label for="other">Other</label>
+        <input name="gender" id="other" type="radio" value="OTHER">
+
+    </div>
+
+    <div>
+        <label for="email">Email:</label>
+        <input name="email" id="email" type="email" placeholder="Your email" required="email">
+
+        <label for="password">Password:</label>
+        <input name="password" id="password" type="password" placeholder="Your password" pattern=".{5,10}" required title="Passoword must be 10 to 5 characters">
+    </div>
+    <div>
+        <label name="Birthday">Birthday:
+            <select>
+                <option>Month</option>
+                <option>Jan</option>
+                <option>Feb</option>
+                <option>Mar</option>
+            </select>
+            <select>
+                <option>Day</option>
+                <option>01</option>
+                <option>02</option>
+                <option>03</option>
+            </select>
+            <select>
+                <option>Year</option>
+                <option>2018</option>
+                <option>2019</option>
+                <option>2020</option>
+            </select>
+        </label>
+    </div>
+
+    <div>
+            <p>I agree to the terms and conditions <input type="checkbox"></p>
+
+    </div>
+       
+        <input type="submit">
+         
+       </form>
+      
+    
+    </body>
+</html>
