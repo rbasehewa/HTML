@@ -32,7 +32,6 @@
 
 <h3> Register form with validation</h3>
 
-<ul>
 <ol> Text Input</ol>
 <ol> Password Input </ol>
 <ol> Email Input </ol>
@@ -42,7 +41,6 @@
     <li> select Tag </li>
     <li> option Tag </li>
 <ol> Check box</ol>
-</ul>
 
 <ul>
 <li> for </li>
