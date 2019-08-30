@@ -32,17 +32,17 @@
 
 <h3> Register form with validation</h3>
 
-<ol>
-<ul> Text Input</ul>
-<ul> Password Input </ul>
-<ul> Email Input </ul>
+<ul>
+<ol> Text Input</ol>
+<ol> Password Input </ol>
+<ol> Email Input </ol>
     <li> label  </li>
     <li> input  </li>
-<ul> Radio buttons</ul>
+<ol> Radio buttons</ol>
     <li> select Tag </li>
     <li> option Tag </li>
-<ul> Check box</ul>
-</ol>
+<ol> Check box</ol>
+</ul>
 
 <ul>
 <li> for </li>
