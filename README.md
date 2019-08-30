@@ -33,8 +33,16 @@
 <h3> Register form with validation</h3>
 
 <ol>
+<ul> Text Input</ul>
+<ul> Password Input </ul>
+<ul> Email Input </ul>
 <li> label  </li>
 <li> input  </li>
+<ul> Radio buttons</ul>
+<li> select Tag </li>
+<li> option Tag </li>
+<ul> Check box</ul>
+<ul>
 </ol>
 
 <ul>
@@ -42,4 +50,9 @@
 <li> name  </li> 
 <li> id </li>
 <li> type </li>
+<li> placeholder </li>
+<li> value </li>
+<li> required </li>
+<li> pattern </li>
+<li> required title</li>
 </ul>
